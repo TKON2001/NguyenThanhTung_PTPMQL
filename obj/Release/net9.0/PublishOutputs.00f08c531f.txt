@@ -1,0 +1,7 @@
+C:\Temp\MvcMovie\MvcMovie.exe
+C:\Temp\MvcMovie\appsettings.Development.json
+C:\Temp\MvcMovie\appsettings.json
+C:\Temp\MvcMovie\MvcMovie.dll
+C:\Temp\MvcMovie\MvcMovie.deps.json
+C:\Temp\MvcMovie\MvcMovie.runtimeconfig.json
+C:\Temp\MvcMovie\MvcMovie.pdb
