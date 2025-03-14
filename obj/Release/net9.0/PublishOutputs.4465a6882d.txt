@@ -1,7 +1,0 @@
-F:\NETCOREAPI\Mvcmovie\publish\MvcMovie.exe
-F:\NETCOREAPI\Mvcmovie\publish\appsettings.Development.json
-F:\NETCOREAPI\Mvcmovie\publish\appsettings.json
-F:\NETCOREAPI\Mvcmovie\publish\MvcMovie.dll
-F:\NETCOREAPI\Mvcmovie\publish\MvcMovie.deps.json
-F:\NETCOREAPI\Mvcmovie\publish\MvcMovie.runtimeconfig.json
-F:\NETCOREAPI\Mvcmovie\publish\MvcMovie.pdb
