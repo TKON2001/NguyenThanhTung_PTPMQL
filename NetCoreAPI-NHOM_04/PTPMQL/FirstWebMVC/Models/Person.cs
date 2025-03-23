@@ -6,7 +6,7 @@ namespace MvcMovie.Models
 {
 public class Person
     {
-        internal string? PersonID;
+        public int PersonID { get; set; } = 0;
 
         [Key] // Khóa chính nhưng không tự động tăng
         public string PersonId { get; set; } = Guid.NewGuid().ToString();

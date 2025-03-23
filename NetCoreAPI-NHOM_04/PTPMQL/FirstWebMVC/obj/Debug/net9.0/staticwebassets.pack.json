@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\wwwroot\\images\\test-logo.png",
+      "PackagePath": "staticwebassets\\images\\test-logo.png"
+    },
+    {
       "Id": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -34,19 +34,34 @@
 @foreach (var item in Model) {
         <tr>
             <td>
-                @Html.DisplayFor(modelItem => item.TenDaiLy)
+                @if (item?.TenDaiLy != null)
+                {
+                    @Html.DisplayFor(modelItem => item.TenDaiLy)
+                }
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.DiaChi)
+                @if (item?.DiaChi != null)
+                {
+                    @Html.DisplayFor(modelItem => item.DiaChi)
+                }
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.NguoiDaiDien)
+                @if (item?.NguoiDaiDien != null)
+                {
+                    @Html.DisplayFor(modelItem => item.NguoiDaiDien)
+                }
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.DienThoai)
+                @if (item?.DienThoai != null)
+                {
+                    @Html.DisplayFor(modelItem => item.DienThoai)
+                }
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.HeThongPhanPhoi.MaHTPP)
+                @if (item?.HeThongPhanPhoi?.MaHTPP != null)
+                {
+                    @Html.DisplayFor(modelItem => item.HeThongPhanPhoi.MaHTPP)
+                }
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.MaDaiLy">Edit</a> |

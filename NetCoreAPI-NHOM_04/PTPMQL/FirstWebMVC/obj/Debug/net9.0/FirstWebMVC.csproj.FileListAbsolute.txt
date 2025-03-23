@@ -647,7 +647,6 @@ F:\NguyenThanhTung_PTPMQL-main\NguyenThanhTung_PTPMQL-main\NetCoreAPI-NHOM_04\PT
 F:\NguyenThanhTung_PTPMQL-main\NguyenThanhTung_PTPMQL-main\NetCoreAPI-NHOM_04\PTPMQL\FirstWebMVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 F:\NguyenThanhTung_PTPMQL-main\NguyenThanhTung_PTPMQL-main\NetCoreAPI-NHOM_04\PTPMQL\FirstWebMVC\obj\Debug\net9.0\scopedcss\bundle\FirstWebMVC.styles.css
 F:\NguyenThanhTung_PTPMQL-main\NguyenThanhTung_PTPMQL-main\NetCoreAPI-NHOM_04\PTPMQL\FirstWebMVC\obj\Debug\net9.0\scopedcss\projectbundle\FirstWebMVC.bundle.scp.css
-F:\NguyenThanhTung_PTPMQL-main\NguyenThanhTung_PTPMQL-main\NetCoreAPI-NHOM_04\PTPMQL\FirstWebMVC\obj\Debug\net9.0\compressed\ugfv5m3bq0-lugek5hnai.gz
 F:\NguyenThanhTung_PTPMQL-main\NguyenThanhTung_PTPMQL-main\NetCoreAPI-NHOM_04\PTPMQL\FirstWebMVC\obj\Debug\net9.0\compressed\0bttf24ixk-61n19gt1b8.gz
 F:\NguyenThanhTung_PTPMQL-main\NguyenThanhTung_PTPMQL-main\NetCoreAPI-NHOM_04\PTPMQL\FirstWebMVC\obj\Debug\net9.0\compressed\u3e3tj5pl4-fr7q2aak1r.gz
 F:\NguyenThanhTung_PTPMQL-main\NguyenThanhTung_PTPMQL-main\NetCoreAPI-NHOM_04\PTPMQL\FirstWebMVC\obj\Debug\net9.0\compressed\tnr9uk7iw4-bqjiyaj88i.gz
@@ -726,3 +725,4 @@ F:\NguyenThanhTung_PTPMQL-main\NguyenThanhTung_PTPMQL-main\NetCoreAPI-NHOM_04\PT
 F:\NguyenThanhTung_PTPMQL-main\NguyenThanhTung_PTPMQL-main\NetCoreAPI-NHOM_04\PTPMQL\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.pdb
 F:\NguyenThanhTung_PTPMQL-main\NguyenThanhTung_PTPMQL-main\NetCoreAPI-NHOM_04\PTPMQL\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.genruntimeconfig.cache
 F:\NguyenThanhTung_PTPMQL-main\NguyenThanhTung_PTPMQL-main\NetCoreAPI-NHOM_04\PTPMQL\FirstWebMVC\obj\Debug\net9.0\ref\FirstWebMVC.dll
+F:\NguyenThanhTung_PTPMQL-main\NguyenThanhTung_PTPMQL-main\NetCoreAPI-NHOM_04\PTPMQL\FirstWebMVC\obj\Debug\net9.0\compressed\ugfv5m3bq0-poe50um66l.gz

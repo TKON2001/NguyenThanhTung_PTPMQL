@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bOD9+AojeQ48uRGnJaUmUG9FMj3ADWilv/e5QmRm3DE=",
+  "Hash": "hpj7C9RfN06BgeBqV9VoeTP+BcRWgksIDBfBxsNMTrY=",
   "Source": "FirstWebMVC",
   "BasePath": "_content/FirstWebMVC",
   "Mode": "Default",
@@ -1109,12 +1109,12 @@
       "OriginalItemSpec": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\wwwroot\\js\\site.js"
     },
     {
-      "Identity": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\obj\\Debug\\net9.0\\compressed\\ugfv5m3bq0-lugek5hnai.gz",
+      "Identity": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\obj\\Debug\\net9.0\\compressed\\ugfv5m3bq0-poe50um66l.gz",
       "SourceId": "FirstWebMVC",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/FirstWebMVC",
-      "RelativePath": "css/site#[.{fingerprint=lugek5hnai}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=poe50um66l}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1123,8 +1123,8 @@
       "RelatedAsset": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "q6gmzad525",
-      "Integrity": "cnac8l+68P1TRZrUyEVkzCTs+ui0xW7hn4msjCOgadQ=",
+      "Fingerprint": "wiae8jxmq9",
+      "Integrity": "yPCpH/DivEso0Yxa2D2JQHyr+ENtpLpcDlLCzwwerWU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "lugek5hnai",
-      "Integrity": "zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo=",
+      "Fingerprint": "poe50um66l",
+      "Integrity": "Zw7Ca5dGfauyULn83YHbNg2K7JcKNzhNbqdnKYRFnp8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1443,6 +1443,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\wwwroot\\images\\test-logo.png",
+      "SourceId": "FirstWebMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\wwwroot\\",
+      "BasePath": "_content/FirstWebMVC",
+      "RelativePath": "images/test-logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8hld4yrbnw",
+      "Integrity": "/Gk0+NNMJ6BWOAdhwR6D1Zxn3UyEs2jCiG4s/8Q8QNk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\test-logo.png"
     },
     {
       "Identity": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\wwwroot\\js\\site.js",
@@ -2729,12 +2750,12 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\obj\\Debug\\net9.0\\compressed\\ugfv5m3bq0-lugek5hnai.gz",
+      "AssetFile": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\obj\\Debug\\net9.0\\compressed\\ugfv5m3bq0-poe50um66l.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003194888179"
+          "Quality": "0.002762430939"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2765,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "312"
+          "Value": "361"
         },
         {
           "Name": "ETag",
-          "Value": "\"cnac8l+68P1TRZrUyEVkzCTs+ui0xW7hn4msjCOgadQ=\""
+          "Value": "\"yPCpH/DivEso0Yxa2D2JQHyr+ENtpLpcDlLCzwwerWU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 01:10:07 GMT"
+          "Value": "Sun, 23 Mar 2025 02:52:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,13 +2793,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo=\""
+          "Value": "W/\"Zw7Ca5dGfauyULn83YHbNg2K7JcKNzhNbqdnKYRFnp8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo="
+          "Value": "sha256-Zw7Ca5dGfauyULn83YHbNg2K7JcKNzhNbqdnKYRFnp8="
         }
       ]
     },
@@ -2793,7 +2814,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "637"
+          "Value": "757"
         },
         {
           "Name": "Content-Type",
@@ -2801,11 +2822,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo=\""
+          "Value": "\"Zw7Ca5dGfauyULn83YHbNg2K7JcKNzhNbqdnKYRFnp8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 01:10:07 GMT"
+          "Value": "Sun, 23 Mar 2025 02:52:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2815,13 +2836,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo="
+          "Value": "sha256-Zw7Ca5dGfauyULn83YHbNg2K7JcKNzhNbqdnKYRFnp8="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\obj\\Debug\\net9.0\\compressed\\ugfv5m3bq0-lugek5hnai.gz",
+      "AssetFile": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\obj\\Debug\\net9.0\\compressed\\ugfv5m3bq0-poe50um66l.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2830,7 +2851,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "312"
+          "Value": "361"
         },
         {
           "Name": "Content-Type",
@@ -2838,11 +2859,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cnac8l+68P1TRZrUyEVkzCTs+ui0xW7hn4msjCOgadQ=\""
+          "Value": "\"yPCpH/DivEso0Yxa2D2JQHyr+ENtpLpcDlLCzwwerWU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 01:10:07 GMT"
+          "Value": "Sun, 23 Mar 2025 02:52:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2860,18 +2881,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cnac8l+68P1TRZrUyEVkzCTs+ui0xW7hn4msjCOgadQ="
+          "Value": "sha256-yPCpH/DivEso0Yxa2D2JQHyr+ENtpLpcDlLCzwwerWU="
         }
       ]
     },
     {
-      "Route": "css/site.lugek5hnai.css",
-      "AssetFile": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\obj\\Debug\\net9.0\\compressed\\ugfv5m3bq0-lugek5hnai.gz",
+      "Route": "css/site.poe50um66l.css",
+      "AssetFile": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\obj\\Debug\\net9.0\\compressed\\ugfv5m3bq0-poe50um66l.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003194888179"
+          "Quality": "0.002762430939"
         }
       ],
       "ResponseHeaders": [
@@ -2881,15 +2902,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "312"
+          "Value": "361"
         },
         {
           "Name": "ETag",
-          "Value": "\"cnac8l+68P1TRZrUyEVkzCTs+ui0xW7hn4msjCOgadQ=\""
+          "Value": "\"yPCpH/DivEso0Yxa2D2JQHyr+ENtpLpcDlLCzwwerWU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 01:10:07 GMT"
+          "Value": "Sun, 23 Mar 2025 02:52:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2909,13 +2930,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo=\""
+          "Value": "W/\"Zw7Ca5dGfauyULn83YHbNg2K7JcKNzhNbqdnKYRFnp8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lugek5hnai"
+          "Value": "poe50um66l"
         },
         {
           "Name": "label",
@@ -2923,12 +2944,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo="
+          "Value": "sha256-Zw7Ca5dGfauyULn83YHbNg2K7JcKNzhNbqdnKYRFnp8="
         }
       ]
     },
     {
-      "Route": "css/site.lugek5hnai.css",
+      "Route": "css/site.poe50um66l.css",
       "AssetFile": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2938,7 +2959,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "637"
+          "Value": "757"
         },
         {
           "Name": "Content-Type",
@@ -2946,11 +2967,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo=\""
+          "Value": "\"Zw7Ca5dGfauyULn83YHbNg2K7JcKNzhNbqdnKYRFnp8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 01:10:07 GMT"
+          "Value": "Sun, 23 Mar 2025 02:52:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2960,7 +2981,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lugek5hnai"
+          "Value": "poe50um66l"
         },
         {
           "Name": "label",
@@ -2968,13 +2989,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zeR5PHeeHbxfGkL8WV86OzdoF6UnjuCmnagaocD+cbo="
+          "Value": "sha256-Zw7Ca5dGfauyULn83YHbNg2K7JcKNzhNbqdnKYRFnp8="
         }
       ]
     },
     {
-      "Route": "css/site.lugek5hnai.css.gz",
-      "AssetFile": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\obj\\Debug\\net9.0\\compressed\\ugfv5m3bq0-lugek5hnai.gz",
+      "Route": "css/site.poe50um66l.css.gz",
+      "AssetFile": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\obj\\Debug\\net9.0\\compressed\\ugfv5m3bq0-poe50um66l.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2983,7 +3004,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "312"
+          "Value": "361"
         },
         {
           "Name": "Content-Type",
@@ -2991,11 +3012,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cnac8l+68P1TRZrUyEVkzCTs+ui0xW7hn4msjCOgadQ=\""
+          "Value": "\"yPCpH/DivEso0Yxa2D2JQHyr+ENtpLpcDlLCzwwerWU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 01:10:07 GMT"
+          "Value": "Sun, 23 Mar 2025 02:52:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3013,7 +3034,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lugek5hnai"
+          "Value": "poe50um66l"
         },
         {
           "Name": "label",
@@ -3021,7 +3042,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cnac8l+68P1TRZrUyEVkzCTs+ui0xW7hn4msjCOgadQ="
+          "Value": "sha256-yPCpH/DivEso0Yxa2D2JQHyr+ENtpLpcDlLCzwwerWU="
         }
       ]
     },
@@ -3916,6 +3937,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-8eMpQ0X2wC/Y0XB/PD6xUyW14YeNxvfl/Ic4Lfjyp/A="
+        }
+      ]
+    },
+    {
+      "Route": "images/test-logo.8hld4yrbnw.png",
+      "AssetFile": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\wwwroot\\images\\test-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1250024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Gk0+NNMJ6BWOAdhwR6D1Zxn3UyEs2jCiG4s/8Q8QNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 02:52:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8hld4yrbnw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/test-logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Gk0+NNMJ6BWOAdhwR6D1Zxn3UyEs2jCiG4s/8Q8QNk="
+        }
+      ]
+    },
+    {
+      "Route": "images/test-logo.png",
+      "AssetFile": "F:\\NguyenThanhTung_PTPMQL-main\\NguyenThanhTung_PTPMQL-main\\NetCoreAPI-NHOM_04\\PTPMQL\\FirstWebMVC\\wwwroot\\images\\test-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1250024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Gk0+NNMJ6BWOAdhwR6D1Zxn3UyEs2jCiG4s/8Q8QNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 02:52:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Gk0+NNMJ6BWOAdhwR6D1Zxn3UyEs2jCiG4s/8Q8QNk="
         }
       ]
     },

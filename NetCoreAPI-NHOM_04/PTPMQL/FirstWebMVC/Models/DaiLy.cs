@@ -8,13 +8,13 @@ namespace MvcMovie.Models
         [Key]  // ✅ Xác định khóa chính
         public string MaDaiLy { get; set; }
 
-        public string TenDaiLy { get; set; }
-        public string DiaChi { get; set; }
-        public string NguoiDaiDien { get; set; }
-        public string DienThoai { get; set; }
+        public required string TenDaiLy { get; set; }
+        public required string DiaChi { get; set; }
+        public required string NguoiDaiDien { get; set; }
+        public required string DienThoai { get; set; }
+        public required string MaHTPP { get; set; }
 
         // Khóa ngoại liên kết với HeThongPhanPhoi
-        public string MaHTPP { get; set; }
         public HeThongPhanPhoi? HeThongPhanPhoi { get; set; }
 
         public DaiLy()
